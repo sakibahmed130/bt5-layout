@@ -1,0 +1,19 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 10px;
+	background-color: teal;
+}
+h1{
+	font-size: 20px;
+	font-weight: 700px;
+}
+.box{
+	margin-bottom: 10px;
+	min-height: 80px;
+	font-size: 30px;
+	background-color: red;
+	color: white;
+}
+
+.red{
+	background-color: lime;
+}
